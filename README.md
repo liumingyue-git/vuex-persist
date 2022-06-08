@@ -1,10 +1,10 @@
 ## Install
 ``` 
-npm install vuex-persist --save
+npm install vuex-persist-data --save
 ```
 ## Use
 ``` javascript
-import persistData from './persistData'
+import persistData from 'vuex-persist-data'
 
 Vue.use(Vuex)
 export default new Vuex.Store({

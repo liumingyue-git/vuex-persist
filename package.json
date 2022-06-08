@@ -1,0 +1,12 @@
+{
+  "name": "vuex-persist-data",
+  "version": "1.0.1",
+  "description": "持续化存储vuex数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vuex","持续化存储数据"],
+  "author": "",
+  "license": "MIT"
+}
