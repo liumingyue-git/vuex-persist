@@ -1,6 +1,6 @@
 {
   "name": "vuex-persist-data",
-  "version": "1.0.1",
+  "version": "2.0.2",
   "description": "持续化存储vuex数据",
   "main": "index.js",
   "scripts": {
